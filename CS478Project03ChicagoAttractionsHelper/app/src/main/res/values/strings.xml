@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS 478 - Project 03 - Chicago Attractions Helper</string>
+    <string name="perm_label_project3">edu.uic.cs478.sp18.project3</string>
+    <string name="perm_desc_project3">
+        Permission used for the project 3. (edu.uic.cs478.sp18.project3)
+    </string>
+</resources>

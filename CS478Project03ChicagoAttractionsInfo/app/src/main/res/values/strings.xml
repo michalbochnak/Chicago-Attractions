@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CS 478 Project 03 Chicago Attractions Info</string>
+    <string name="perm_label_project3">edu.uic.cs478.sp18.project3</string>
+    <string name="perm_desc_project3">
+        Permission used for the project 3. (edu.uic.cs478.sp18.project3)
+    </string>
+
+    <string-array name="attractions">
+        <item>Lincoln Park Zoo</item>
+        <item>Navy Pier</item>
+        <item>Museum of Science and Industry</item>
+        <item>Art Institute of Chicago</item>
+        <item>Tilt</item>
+        <item>Skydeck</item>
+        <item>Millennium Park</item>
+        <item>Shedd Aquarium</item>
+        <item>Chicago History Museum</item>
+        <item>Chicago Cultural Center</item>
+    </string-array>
+
+    <string-array name="attractions_urls">
+        <item>https://www.lpzoo.org/</item>
+        <item>https://navypier.org/</item>
+        <item>https://www.msichicago.org/</item>
+        <item>http://www.artic.edu/</item>
+        <item>http://www.360chicago.com/duplicate-of-tilt/</item>
+        <item>http://theskydeck.com/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://www.sheddaquarium.org/</item>
+        <item>https://www.chicagohistory.org/</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/chicago_culturalcenter.html/</item>
+    </string-array>
+
+    <string-array name="restaurants">
+        <item>Signature Room 95th</item>
+        <item>Geja\'s Cafe</item>
+        <item>The Purple Pig</item>
+        <item>Quartino Ristorante</item>
+        <item>Andy\'s Jazz Club and Restaurant</item>
+        <item>The Kitchen</item>
+    </string-array>
+
+    <string-array name="restaurants_urls">
+        <item>https://www.signatureroom.com</item>
+        <item>https://gejascafe.com/</item>
+        <item>https://thepurplepigchicago.com/</item>
+        <item>https://www.quartinochicago.com/</item>
+        <item>http://www.andysjazzclub.com/</item>
+        <item>http://www.thekitchenbistros.com/location/the-kitchen-chicago/</item>
+    </string-array>
+
+</resources>
